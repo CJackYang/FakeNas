@@ -43,7 +43,10 @@
 
 ## 参考文档
 
-[云对客户端接口]: https://github.com/wisnuc/phi-doc/blob/master/cloud/N2%E4%BA%91%E6%9C%8D%E5%8A%A1App%E6%8E%A5%E5%8F%A3.md
-[云和设备SSL消息]: <https://github.com/wisnuc/phi-doc/blob/master/cloud/N2%E4%BA%91%E6%9C%8D%E5%8A%A1SSL%E7%AE%A1%E7%90%86%E9%80%9A%E9%81%93%E5%8D%8F%E8%AE%AE.md>
-[云和设备http接口(pipe消息　response)]: https://github.com/wisnuc/phi-doc/blob/master/cloud/N2%E4%BA%91%E6%9C%8D%E5%8A%A1Station%E6%8E%A5%E5%8F%A3.md
-[station 接口]: https://github.com/wisnuc/phi-doc/blob/master/api/station.html
+[云对客户端接口](https://github.com/wisnuc/phi-doc/blob/master/cloud/N2%E4%BA%91%E6%9C%8D%E5%8A%A1App%E6%8E%A5%E5%8F%A3.md)
+
+[云和设备SSL消息](https://github.com/wisnuc/phi-doc/blob/master/cloud/N2%E4%BA%91%E6%9C%8D%E5%8A%A1SSL%E7%AE%A1%E7%90%86%E9%80%9A%E9%81%93%E5%8D%8F%E8%AE%AE.md)
+
+[云和设备http接口(pipe消息　response)](https://github.com/wisnuc/phi-doc/blob/master/cloud/N2%E4%BA%91%E6%9C%8D%E5%8A%A1Station%E6%8E%A5%E5%8F%A3.md)
+
+[station 接口](https://github.com/wisnuc/phi-doc/blob/master/api/station.html)
